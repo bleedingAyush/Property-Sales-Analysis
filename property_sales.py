@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-from pathlib import Path
-import matplotlib.pyplot as plt
 
 st.title("Property sales in Melbourne City")
 
